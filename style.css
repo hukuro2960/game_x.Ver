@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PixelMplus12';
+    src: url('https://hukuro2960.github.io/game/assets/fonts/PixelMplus12-Bold.ttf') format('truetype');
+}
+.PixelMplus12{
+    font-family: 'PixelMplus12';
+}
+body {
+	font-family: PixelMplus12; /* @font-faceで定義したフォント名を指定 */
+}
